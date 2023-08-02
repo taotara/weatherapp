@@ -14,6 +14,7 @@ export class WeatherComponent {
   humidity: number = 0;
   summary: string = '';
   iconURL: string = '';
+  
   city: string = 'Lagos';
   units: string = 'metric';
 
